@@ -1,0 +1,14 @@
+Read Me
+
+Install
+
+1. Node Js
+2. Angular Cli
+3. JSON-Server
+
+1. open the contacts application folder in vs code
+2. Inside the db folder db.json file is avaiable and open the file using the below command
+3. start json server using json-server --watch db.json command
+4. run the application using te command "ng serve"
+
+
